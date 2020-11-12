@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "c:\\Users\\rosof\\NFLWebApp\\.venv\\Scripts\\python.exe"
+    "python.pythonPath": "c:\\Users\\rosof\\NFLWebApp\\.venv\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
 }
